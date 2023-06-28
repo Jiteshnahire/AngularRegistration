@@ -1,0 +1,16 @@
+.container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.example-spacer {
+    flex: 1 1 auto;
+  }
+  
+
+  .demo-inline-calendar-card {
+    width: 300px;
+  }
+  
